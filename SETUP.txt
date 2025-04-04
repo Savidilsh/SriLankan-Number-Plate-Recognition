@@ -1,0 +1,18 @@
+Setup Instructions for Sri Lankan Number Plate Recognition
+=========================================================
+
+Prerequisites
+-------------
+- Hardware: Raspberry Pi (or any computer with a graphical desktop environment).
+  For webcam mode, a compatible webcam is required.
+- Operating System: Tested on Raspberry Pi OS (Linux-based), but should work on other systems with minor adjustments.
+- Dependencies:
+  - Python 3.7 or higher
+  - OpenCV (`opencv-python`)
+  - PyTesseract (`pytesseract`)
+  - Tesseract OCR (system dependency)
+  - NumPy (`numpy`)
+
+Installation Steps
+------------------
+1. Clone the Repository:
